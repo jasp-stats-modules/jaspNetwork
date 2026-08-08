@@ -955,15 +955,15 @@ msgstr "Parameter-Prior"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Co-clustering matrix plot"
-msgstr ""
+msgstr "Co-Clustering-Matrix-Diagramm"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Edge specific overview"
-msgstr ""
+msgstr "Kantenspezifische Übersicht"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Clustering Overview"
-msgstr ""
+msgstr "Cluster-Übersicht"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Cluster allocations"
@@ -971,7 +971,7 @@ msgstr ""
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Summary statistic"
-msgstr ""
+msgstr "Statistik-Zusammenfassung"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Posterior mean"
@@ -987,21 +987,23 @@ msgstr "Posterior-Wahrscheinlichkeiten für die Anzahl von Clustern"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Posterior co-clustering matrix"
-msgstr ""
+msgstr "Posterior Co-Clustering-Matrix"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid ""
 "Shows the posterior probability that each pair of nodes belongs to the same "
 "cluster."
 msgstr ""
+"Zeigt die Posterior-Wahrscheinlichkeit, dass jedes Paar von Knoten zu "
+"demselben Cluster gehört."
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Cluster Bayes factor"
-msgstr ""
+msgstr "Cluster Bayesfaktor"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Clustering vs. no clustering"
-msgstr ""
+msgstr "Clustering vs. kein Clustering"
 
 msgctxt "BayesianNetworkAnalysis|"
 msgid "Point hypotheses"
